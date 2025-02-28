@@ -12,6 +12,7 @@ body {
     align-items: center;      /* Centers vertically */
     height: 100vh;            /* Full height of the viewport */
     margin: 0;                /* Remove default margin */
+    position: fixed;
 }
 h1 {
     color: #E0115F;
